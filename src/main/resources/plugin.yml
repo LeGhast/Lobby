@@ -1,0 +1,11 @@
+name: Lobby
+version: '${project.version}'
+main: de.leghast.lobby.Lobby
+api-version: '1.20'
+authors: [GhastCraftHD]
+description: The lobby server plugin for the LeGhast.de network
+depend: [ServerCore]
+commands:
+  spawn:
+  fly:
+
